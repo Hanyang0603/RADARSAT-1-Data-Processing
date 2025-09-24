@@ -1,5 +1,5 @@
 % RADARSAT-1 Data Processing: CSA Imaging
-% Hanyang Xu
+% Author: Hanyang Xu
 
 % clc; clear all; close all;
 % extract = 0;
